@@ -86,12 +86,6 @@ main {
   flex-grow: 1;
 }
 
-
-#about div mesh{
-    background-image: url(images/bg_mesh3.jpg);
-}
-
-
 .center-img {
   width: 1000px;
   height: 300px;
@@ -211,15 +205,7 @@ header {
   z-index: 101;
 }
 
-/*_____________________________________________________________________
-
-/*header {
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px;
-}*/
+/*_____________________________________________________________________*/
 
 header h1 {
   text-align: center;
@@ -434,7 +420,7 @@ a.pagetop {
 
 .rotate9 {
   width: 400px;
-  height: 800px;
+  height: 534px;
   margin: 100px auto;
   transition: transform 1s ease-in-out; /* ホバー時の変化をスムーズにする */
 }
